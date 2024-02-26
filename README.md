@@ -30,6 +30,3 @@ Welcome to the ML Projects repository! This repository contains the following pr
 Each project is contained in its respective Jupyter Notebook. Follow the instructions within each notebook to run the analysis and reproduce the results.
 
 Feel free to explore, contribute, or provide feedback! If you encounter any issues or have questions, please open an issue.
-
-## License
-This repository is licensed under the [MIT License](LICENSE).
